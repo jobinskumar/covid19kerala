@@ -13,16 +13,16 @@
       {
         "name": "trivandrum",            
         "latestCount": "02",
-        "totalCount": "05"
+        "totalCount": "07"
       },
       {
         "name": "kollam",
         "latestCount": "01",
-        "totalCount": "02"
+        "totalCount": "03"
       },
       {
         "name": "pathanamthitta",
-        "totalCount": "07"
+        "totalCount": "05"
       },
       {
         "name": "alapuzha",
@@ -43,7 +43,7 @@
       {
         "name": "trissur",
         "latestCount": "01",
-        "totalCount": "05"
+        "totalCount": "06"
       },
       {
         "name": "palakkad",
@@ -64,12 +64,12 @@
       {
         "name": "kannur",
         "latestCount": "01",
-        "totalCount": "45"
+        "totalCount": "44"
       },
       {
         "name": "kasargod",
         "latestCount": "02",
-        "totalCount": "106"
+        "totalCount": "108"
       }
     ]
   },
