@@ -1,0 +1,473 @@
+{
+    "latest": {
+      "label": "കേരളത്തിൽ ആകെ",
+      "date": "2020-03-30 00:00",
+      "dateText": "മാർച്ച് 30 ന് മാത്രം",
+      "latestTotalCount": "32",
+      "totalCovidCount": "234",
+      "totalCovidCountPositive": "212",
+      "totalCovidCountNegative": "20",
+      "totalToll": "02",
+      "data": [
+        {
+          "name": "trivandrum",
+          "totalCount": "05"
+        },
+        {
+          "name": "kollam",
+          "totalCount": "02"
+        },
+        {
+          "name": "pathanamthitta",
+          "totalCount": "07"
+        },
+        {
+          "name": "alapuzha",
+          "totalCount": "01"
+        },
+        {
+          "name": "kottayam",
+          "totalCount": "01"
+        },
+        {
+          "name": "idukki",
+          "latestCount": "02",
+          "totalCount": "04"
+        },
+        {
+          "name": "ernakulam",
+          "totalCount": "11"
+        },
+        {
+          "name": "trissur",
+          "totalCount": "05"
+        },
+        {
+          "name": "palakkad",
+          "totalCount": "05"
+        },
+        {
+          "name": "malappuram",
+          "totalCount": "11"
+        },
+        {
+          "name": "kozhikode",
+          "totalCount": "06"
+        },
+        {
+          "name": "wayanad",
+          "latestCount": "02",
+          "totalCount": "03"
+        },
+        {
+          "name": "kannur",
+          "latestCount": "11",
+          "totalCount": "45"
+        },
+        {
+          "name": "kasargod",
+          "latestCount": "17",
+          "totalCount": "106"
+        }
+      ]
+    },
+    "march30": {
+      "label": "30 മാർച്ച്",
+      "briefText": "മാർച്ച് 30 ന്",
+      "totalCovidCountPositive": "32",
+      "data": [
+        {
+          "name": "kannur",
+          "count": "11"
+        },
+        {
+          "name": "kasargod",
+          "count": "17"
+        },
+        {
+          "name": "wayanad",
+          "count": "02"
+        },
+        {
+          "name": "idukki",
+          "count": "02"
+        }
+      ]
+    },
+    "march29": {
+      "label": "29 മാർച്ച്",
+      "briefText": "മാർച്ച് 29 ന്",
+      "totalCovidCountPositive": "20",
+      "totalToll": "01",
+      "data": [
+        {
+          "name": "kannur",
+          "count": "08"
+        },
+        {
+          "name": "kasargod",
+          "count": "07"
+        },
+        {
+          "name": "trivandrum",
+          "count": "01"
+        },
+        {
+          "name": "ernakulam",
+          "count": "01"
+        },
+        {
+          "name": "trissur",
+          "count": "01"
+        },
+        {
+          "name": "palakkad",
+          "count": "01"
+        },
+        {
+          "name": "malappuram",
+          "count": "01"
+        }
+      ]
+    },
+    "march28": {
+      "label": "28 മാർച്ച്",
+      "briefText": "മാർച്ച് 28 ന്",
+      "totalCovidCountPositive": "06",
+      "data": [
+        {
+          "name": "trivandrum",
+          "count": "02"
+        },
+        {
+          "name": "kollam",
+          "count": "01"
+        },
+        {
+          "name": "kasargod",
+          "count": "01"
+        },
+        {
+          "name": "palakkad",
+          "count": "01"
+        },
+        {
+          "name": "malappuram",
+          "count": "01"
+        }
+      ]
+    },
+    "march27": {
+      "label": "27 മാർച്ച്",
+      "briefText": "മാർച്ച് 27 ന്",
+      "totalCovidCountPositive": "39",
+      "data": [
+        {
+          "name": "kollam",
+          "count": "01"
+        },
+        {
+          "name": "kasargod",
+          "count": "34"
+        },
+        {
+          "name": "kannur",
+          "count": "02"
+        },
+        {
+          "name": "trissur",
+          "count": "01"
+        },
+        {
+          "name": "kozhikode",
+          "count": "01"
+        }
+      ]
+    },
+    "march26": {
+      "label": "26 മാർച്ച്",
+      "briefText": "മാർച്ച് 26 ന്",
+      "totalCovidCountPositive": "19",
+      "data": [
+        {
+          "name": "kannur",
+          "count": "09"
+        },
+        {
+          "name": "kasargod",
+          "count": "03"
+        },
+        {
+          "name": "malappuram",
+          "count": "03"
+        },
+        {
+          "name": "idukki",
+          "count": "01"
+        },
+        {
+          "name": "trissur",
+          "count": "02"
+        },
+        {
+          "name": "wayanad",
+          "count": "01"
+        }
+      ]
+    },
+    "march25": {
+      "label": "25 മാർച്ച്",
+      "briefText": "മാർച്ച് 25 ന്",
+      "totalCovidCountPositive": "09",
+      "data": [
+        {
+          "name": "kozhikode",
+          "count": "01"
+        },
+        {
+          "name": "palakkad",
+          "count": "02"
+        },
+        {
+          "name": "ernakulam",
+          "count": "03"
+        },
+        {
+          "name": "pathanamthitta",
+          "count": "02"
+        },
+        {
+          "name": "idukki",
+          "count": "01"
+        }
+      ]
+    },
+    "march24": {
+      "label": "24 മാർച്ച്",
+      "briefText": "മാർച്ച് 24 ന്",
+      "totalCovidCountPositive": "14",
+      "data": [
+        {
+          "name": "trivandrum",
+          "count": "01"
+        },
+        {
+          "name": "alapuzha",
+          "count": "01"
+        },
+        {
+          "name": "kottayam",
+          "count": "01"
+        },
+        {
+          "name": "ernakulam",
+          "count": "01"
+        },
+        {
+          "name": "palakkad",
+          "count": "01"
+        },
+        {
+          "name": "malappuram",
+          "count": "01"
+        },
+        {
+          "name": "kozhikode",
+          "count": "02"
+        },
+        {
+          "name": "kasargod",
+          "count": "06"
+        }
+      ]
+    },
+    "march23": {
+      "label": "23 മാർച്ച്",
+      "briefText": "മാർച്ച് 23 ന്",
+      "totalCovidCountPositive": "28",
+      "data": [
+        {
+          "name": "pathanamthitta",
+          "count": "01"
+        },
+        {
+          "name": "trissur",
+          "count": "01"
+        },
+        {
+          "name": "kannur",
+          "count": "05"
+        },
+        {
+          "name": "ernakulam",
+          "count": "02"
+        },
+        {
+          "name": "kasargod",
+          "count": "19"
+        }
+      ]
+    },
+    "march22": {
+      "label": "22 മാർച്ച്",
+      "briefText": "മാർച്ച് 22 ന്",
+      "totalCovidCountPositive": "15",
+      "data": [
+        {
+          "name": "malappuram",
+          "count": "02"
+        },
+        {
+          "name": "kozhikode",
+          "count": "02"
+        },
+        {
+          "name": "kannur",
+          "count": "04"
+        },
+        {
+          "name": "ernakulam",
+          "count": "02"
+        },
+        {
+          "name": "kasargod",
+          "count": "05"
+        }
+      ]
+    },
+    "march21": {
+      "label": "21 മാർച്ച്",
+      "briefText": "മാർച്ച് 21 ന്",
+      "totalCovidCountPositive": "12",
+      "data": [
+        {
+          "name": "kannur",
+          "count": "03"
+        },
+        {
+          "name": "ernakulam",
+          "count": "03"
+        },
+        {
+          "name": "kasargod",
+          "count": "06"
+        }
+      ]
+    },
+    "march20": {
+      "label": "20 മാർച്ച്",
+      "briefText": "മാർച്ച് 20 ന്",
+      "totalCovidCountPositive": "12",
+      "data": [
+        {
+          "name": "ernakulam",
+          "count": "06"
+        },
+        {
+          "name": "kasargod",
+          "count": "06"
+        }
+      ]
+    },
+    "march19": {
+      "label": "19 മാർച്ച്",
+      "briefText": "മാർച്ച് 19 ന്",
+      "totalCovidCountPositive": "01",
+      "data": [
+        {
+          "name": "kasargod",
+          "count": "01"
+        }
+      ]
+    },
+    "march16": {
+      "label": "16 മാർച്ച്",
+      "briefText": "മാർച്ച് 16 ന്",
+      "totalCovidCountPositive": "03",
+      "data": [
+        {
+          "name": "malappuram",
+          "count": "02"
+        },
+        {
+          "name": "kasargod",
+          "count": "01"
+        }
+      ]
+    },
+    "march15": {
+      "label": "15 മാർച്ച്",
+      "briefText": "മാർച്ച് 15 ന്",
+      "totalCovidCountPositive": "02",
+      "data": [
+        {
+          "name": "trivandrum",
+          "count": "01"
+        },
+        {
+          "name": "idukki",
+          "count": "01"
+        }
+      ]
+    },
+    "march13": {
+      "label": "13 മാർച്ച്",
+      "briefText": "മാർച്ച് 13 ന്",
+      "totalCovidCountPositive": "03",
+      "data": [
+        {
+          "name": "trivandrum",
+          "count": "03"
+        }
+      ]
+    },
+    "march12": {
+      "label": "12 മാർച്ച്",
+      "briefText": "മാർച്ച് 12 ന്",
+      "totalCovidCountPositive": "02",
+      "data": [
+        {
+          "name": "kannur",
+          "count": "01"
+        },
+        {
+          "name": "trissur",
+          "count": "01"
+        }
+      ]
+    },
+    "march10": {
+      "label": "10 മാർച്ച്",
+      "briefText": "മാർച്ച് 10 ന്",
+      "totalCovidCountPositive": "08",
+      "data": [
+        {
+          "name": "kottayam",
+          "count": "02"
+        },
+        {
+          "name": "pathanamthitta",
+          "count": "04"
+        },
+        {
+          "name": "ernakulam",
+          "count": "02"
+        }
+      ]
+    },
+    "march09": {
+      "label": "9 മാർച്ച്",
+      "briefText": "മാർച്ച് 9 ന്",
+      "totalCovidCountPositive": "06",
+      "data": [
+        {
+          "name": "pathanamthitta",
+          "count": "05"
+        },
+        {
+          "name": "ernakulam",
+          "count": "01"
+        }
+      ]
+    }
+  }
