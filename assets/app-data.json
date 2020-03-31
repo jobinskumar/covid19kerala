@@ -1,20 +1,23 @@
 {
     "latest": {
-      "label": "കേരളത്തിൽ ആകെ",
-      "date": "2020-03-30 00:00",
-      "dateText": "മാർച്ച് 30 ന് മാത്രം",
-      "latestTotalCount": "32",
-      "totalCovidCount": "234",
-      "totalCovidCountPositive": "212",
-      "totalCovidCountNegative": "20",
+      "label": "കേരളത്തിൽ ആകെ (മാർച്ച് 31)",
+      "date": "2020-03-31 00:00",
+      "dateText": "മാർച്ച് 31 ന് മാത്രം",
+      "latestTotalCount": "07",
+      "totalCovidCount": "241",
+      "totalCovidCountPositive": "215",
+      "totalCovidCountNegative": "24",
       "totalToll": "02",
+      "latestToll": "01",
       "data": [
         {
-          "name": "trivandrum",
+          "name": "trivandrum",            
+          "latestCount": "02",
           "totalCount": "05"
         },
         {
           "name": "kollam",
+          "latestCount": "01",
           "totalCount": "02"
         },
         {
@@ -31,7 +34,6 @@
         },
         {
           "name": "idukki",
-          "latestCount": "02",
           "totalCount": "04"
         },
         {
@@ -40,6 +42,7 @@
         },
         {
           "name": "trissur",
+          "latestCount": "01",
           "totalCount": "05"
         },
         {
@@ -56,18 +59,44 @@
         },
         {
           "name": "wayanad",
-          "latestCount": "02",
           "totalCount": "03"
         },
         {
           "name": "kannur",
-          "latestCount": "11",
+          "latestCount": "01",
           "totalCount": "45"
         },
         {
           "name": "kasargod",
           "latestCount": "17",
           "totalCount": "106"
+        }
+      ]
+    },
+    "march31": {
+      "label": "31 മാർച്ച്",
+      "briefText": "മാർച്ച് 31 ന്",
+      "totalCovidCountPositive": "07",
+      "data": [
+        {
+          "name": "trivandrum",
+          "count": "02"
+        },
+        {
+          "name": "kasargod",
+          "count": "02"
+        },
+        {
+          "name": "kollam",
+          "count": "01"
+        },
+        {
+          "name": "trissur",
+          "count": "01"
+        },
+        {
+          "name": "kannur",
+          "count": "01"
         }
       ]
     },
@@ -82,6 +111,7 @@
         },
         {
           "name": "kasargod",
+          "latestCount": "02",
           "count": "17"
         },
         {
