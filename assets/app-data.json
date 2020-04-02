@@ -1,28 +1,30 @@
 {
   "latest": {
-    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 01)",
-    "date": "2020-04-01 00:00",
-    "dateText": "ഏപ്രിൽ 01 ന് മാത്രം",
-    "latestTotalCount": "24",
-    "totalCovidCount": "265",
-    "totalCovidCountPositive": "237",
-    "totalCovidCountNegative": "26",
+    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 02)",
+    "date": "2020-04-02 00:00",
+    "dateText": "ഏപ്രിൽ 02 ന് മാത്രം",
+    "latestTotalCount": "21",
+    "totalCovidCount": "286",
+    "totalCovidCountPositive": "256",
+    "totalCovidCountNegative": "28",
     "latestCovidCountNegative": "02",
     "totalToll": "02",
     "latestToll": null,
     "data": [
       {
         "name": "trivandrum",
-        "latestCount": "02",
-        "totalCount": "08"
+        "latestCount": "01",
+        "totalCount": "09"
       },
       {
         "name": "kollam",
-        "totalCount": "03"
+        "latestCount": "02",
+        "totalCount": "05"
       },
       {
         "name": "pathanamthitta",
-        "totalCount": "05"
+        "latestCount": "01",
+        "totalCount": "06"
       },
       {
         "name": "alapuzha",
@@ -34,31 +36,31 @@
       },
       {
         "name": "idukki",
-        "totalCount": "04"
+        "latestCount": "05",
+        "totalCount": "09"
       },
       {
-        "name": "ernakulam",            
-        "latestCount": "03",
+        "name": "ernakulam",
         "totalCount": "14"
       },
       {
         "name": "trissur",
-        "latestCount": "02",
-        "totalCount": "08"
+        "latestCount": "01",
+        "totalCount": "09"
       },
       {
-        "name": "palakkad",            
-        "latestCount": "01",
+        "name": "palakkad",
         "totalCount": "06"
       },
       {
         "name": "malappuram",            
-        "latestCount": "02",
-        "totalCount": "13"
+        "latestCount": "01",
+        "totalCount": "14"
       },
       {
-        "name": "kozhikode",
-        "totalCount": "05"
+        "name": "kozhikode",        
+        "latestCount": "01",
+        "totalCount": "06"
       },
       {
         "name": "wayanad",
@@ -66,13 +68,57 @@
       },
       {
         "name": "kannur",
-        "latestCount": "02",
-        "totalCount": "46"
+        "latestCount": "01",
+        "totalCount": "47"
       },
       {
         "name": "kasargod",
-        "latestCount": "12",
-        "totalCount": "120"
+        "latestCount": "08",
+        "totalCount": "128"
+      }
+    ]
+  },
+  "april02": {
+    "label": "02 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 02 ന്",
+    "totalCovidCountPositive": "21",
+    "totalCovidCountNegative": "02",
+    "data": [
+      {
+        "name": "idukki",
+        "count": "05"
+      },
+      {
+        "name": "kasargod",
+        "count": "08"
+      },
+      {
+        "name": "kollam",
+        "count": "02"
+      },
+      {
+        "name": "trivandrum",
+        "count": "01"
+      },
+      {
+        "name": "pathanamthitta",
+        "count": "01"
+      },
+      {
+        "name": "trissur",
+        "count": "01"
+      },
+      {
+        "name": "malappuram",
+        "count": "01"
+      },
+      {
+        "name": "kozhikode",
+        "count": "01"
+      },
+      {
+        "name": "kannur",
+        "count": "01"
       }
     ]
   },
