@@ -13,68 +13,95 @@
     "data": [
       {
         "name": "trivandrum",
-        "latestCount": "01",
-        "totalCount": "08"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "08",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "04",
+        "totalReported": "13",
+        "totalDeath": "01"
       },
       {
         "name": "kollam",
-        "latestCount": "02",
-        "totalCount": "05"
+        "latestPositiveCount": "02",
+        "currentPositiveCount": "05",
+        "totalReported": "05"
       },
       {
         "name": "pathanamthitta",
-        "latestCount": "01",
-        "totalCount": "06"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "06",
+        "currentNegativeCount": "07",
+        "totalReported": "13"
       },
       {
         "name": "alapuzha",
-        "totalCount": "01"
+        "currentPositiveCount": "01",
+        "currentNegativeCount": "01",
+        "totalReported": "02"
       },
       {
         "name": "kottayam",
-        "totalCount": "01"
+        "currentPositiveCount": "01",
+        "currentNegativeCount": "02",
+        "totalReported": "03"
       },
       {
         "name": "idukki",
-        "latestCount": "05",
-        "totalCount": "09"
+        "latestPositiveCount": "05",
+        "currentPositiveCount": "09",
+        "totalReported": "09"
       },
       {
         "name": "ernakulam",
-        "totalCount": "14"
+        "currentPositiveCount": "14",
+        "currentNegativeCount": "06",
+        "totalReported": "21",
+        "totalDeath": "01"
       },
       {
         "name": "trissur",
-        "latestCount": "01",
-        "totalCount": "09"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "09",
+        "currentNegativeCount": "02",
+        "totalReported": "11"
       },
       {
         "name": "palakkad",
-        "totalCount": "06"
+        "currentPositiveCount": "06",
+        "totalReported": "06"
       },
       {
         "name": "malappuram",            
-        "latestCount": "01",
-        "totalCount": "13"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "13",
+        "currentNegativeCount": "01",
+        "totalReported": "14"
       },
       {
         "name": "kozhikode",        
-        "latestCount": "01",
-        "totalCount": "06"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "06",
+        "currentNegativeCount": "01",
+        "totalReported": "07"
       },
       {
         "name": "wayanad",
-        "totalCount": "03"
+        "currentPositiveCount": "03",
+        "totalReported": "03"
       },
       {
         "name": "kannur",
-        "latestCount": "01",
-        "totalCount": "47"
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "47",
+        "currentNegativeCount": "03",
+        "totalReported": "50"
       },
       {
         "name": "kasargod",
-        "latestCount": "08",
-        "totalCount": "128"
+        "latestPositiveCount": "08",
+        "currentPositiveCount": "128",
+        "currentNegativeCount": "01",
+        "totalReported": "129"
       }
     ]
   },
