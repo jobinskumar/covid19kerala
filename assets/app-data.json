@@ -1,36 +1,33 @@
 {
   "latest": {
-    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 02)",
-    "date": "2020-04-02 00:00",
-    "dateText": "ഏപ്രിൽ 02 ന് മാത്രം",
-    "latestTotalCount": "21",
-    "totalCovidCount": "286",
-    "totalCovidCountPositive": "256",
-    "totalCovidCountNegative": "28",
-    "latestCovidCountNegative": "02",
+    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 03)",
+    "date": "2020-04-03 00:00",
+    "dateText": "ഏപ്രിൽ 03 ന് മാത്രം",
+    "latestTotalCount": "09",
+    "totalCovidCount": "295",
+    "totalCovidCountPositive": "251",
+    "totalCovidCountNegative": "42",
+    "latestCovidCountNegative": "14",
     "totalToll": "02",
     "latestToll": null,
     "data": [
       {
         "name": "trivandrum",
-        "latestPositiveCount": "01",
         "currentPositiveCount": "08",
-        "latestNegativeCount": "01",
         "currentNegativeCount": "04",
         "totalReported": "13",
         "totalDeath": "01"
       },
       {
         "name": "kollam",
-        "latestPositiveCount": "02",
         "currentPositiveCount": "05",
         "totalReported": "05"
       },
       {
         "name": "pathanamthitta",
-        "latestPositiveCount": "01",
-        "currentPositiveCount": "06",
-        "currentNegativeCount": "07",
+        "currentPositiveCount": "05",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "08",
         "totalReported": "13"
       },
       {
@@ -41,14 +38,15 @@
       },
       {
         "name": "kottayam",
-        "currentPositiveCount": "01",
-        "currentNegativeCount": "02",
+        "currentNegativeCount": "03",
+        "latestNegativeCount": "01",
         "totalReported": "03"
       },
       {
         "name": "idukki",
-        "latestPositiveCount": "05",
-        "currentPositiveCount": "09",
+        "currentPositiveCount": "07",
+        "latestNegativeCount": "02",
+        "currentNegativeCount": "02",
         "totalReported": "09"
       },
       {
@@ -61,9 +59,9 @@
       {
         "name": "trissur",
         "latestPositiveCount": "01",
-        "currentPositiveCount": "09",
+        "currentPositiveCount": "10",
         "currentNegativeCount": "02",
-        "totalReported": "11"
+        "totalReported": "12"
       },
       {
         "name": "palakkad",
@@ -71,17 +69,16 @@
         "totalReported": "06"
       },
       {
-        "name": "malappuram",            
-        "latestPositiveCount": "01",
+        "name": "malappuram",
         "currentPositiveCount": "13",
         "currentNegativeCount": "01",
         "totalReported": "14"
       },
       {
-        "name": "kozhikode",        
-        "latestPositiveCount": "01",
-        "currentPositiveCount": "06",
-        "currentNegativeCount": "01",
+        "name": "kozhikode",
+        "currentPositiveCount": "05",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "02",
         "totalReported": "07"
       },
       {
@@ -92,16 +89,38 @@
       {
         "name": "kannur",
         "latestPositiveCount": "01",
-        "currentPositiveCount": "47",
-        "currentNegativeCount": "03",
-        "totalReported": "50"
+        "currentPositiveCount": "43",
+        "latestNegativeCount": "05",
+        "currentNegativeCount": "08",
+        "totalReported": "51"
       },
       {
         "name": "kasargod",
-        "latestPositiveCount": "08",
-        "currentPositiveCount": "128",
-        "currentNegativeCount": "01",
-        "totalReported": "129"
+        "latestPositiveCount": "07",
+        "currentPositiveCount": "131",
+        "latestNegativeCount": "04",
+        "currentNegativeCount": "05",
+        "totalReported": "136"
+      }
+    ]
+  },
+  "april03": {
+    "label": "03 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 03 ന്",
+    "totalCovidCountPositive": "09",
+    "totalCovidCountNegative": "14",
+    "data": [
+      {
+        "name": "kasargod",
+        "count": "07"
+      },
+      {
+        "name": "trissur",
+        "count": "01"
+      },
+      {
+        "name": "kannur",
+        "count": "01"
       }
     ]
   },
