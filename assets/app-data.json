@@ -198,6 +198,7 @@
       },
       {
         "name": "trivandrum",
+        "negative": "01",
         "count": "01"
       },
       {
@@ -210,6 +211,7 @@
       },
       {
         "name": "malappuram",
+        "negative": "01",
         "count": "01"
       },
       {
@@ -230,7 +232,8 @@
     "data": [
       {
         "name": "trivandrum",
-        "count": "02"
+        "count": "02",
+        "negative": "01"
       },
       {
         "name": "kasargod",
@@ -255,6 +258,10 @@
       {
         "name": "ernakulam",
         "count": "03"
+      },
+      {
+        "name": "kozhikode",
+        "negative": "01"
       }
     ]
   },
@@ -281,8 +288,13 @@
         "count": "01"
       },
       {
+        "name": "pathanamthitta",
+        "negative": "02"
+      },
+      {
         "name": "kannur",
-        "count": "01"
+        "count": "01",
+        "negative": "02"
       }
     ]
   },
