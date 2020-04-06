@@ -24,7 +24,7 @@
         "currentPositiveCount": "07",
         "latestNegativeCount": "01",
         "currentNegativeCount": "01",
-        "totalReported": "07"
+        "totalReported": "08"
       },
       {
         "name": "pathanamthitta",
@@ -103,9 +103,9 @@
       }
     ]
   },
-  "april05": {
-    "label": "05 ഏപ്രിൽ",
-    "briefText": "ഏപ്രിൽ 05 ന്",
+  "april06": {
+    "label": "06 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 06 ന്",
     "totalCovidCountPositive": "13",
     "totalCovidCountNegative": "03",
     "data": [
@@ -132,6 +132,36 @@
       },
       {
         "name": "kannur",
+        "negative": "01"
+      }
+    ]
+  },
+  "april05": {
+    "label": "05 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 05 ന്",
+    "totalCovidCountPositive": "08",
+    "totalCovidCountNegative": "06",
+    "data": [
+      {
+        "name": "kasargod",       
+        "count": "01"
+      },
+      {
+        "name": "kannur",       
+        "count": "01",
+        "negative": "04"
+      },
+      {
+        "name": "pathanamthitta",       
+        "count": "01"
+      },
+      {
+        "name": "kozhikode",       
+        "count": "05",
+        "negative": "01"
+      },
+      {
+        "name": "malappuram",
         "negative": "01"
       }
     ]
