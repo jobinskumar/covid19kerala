@@ -1,40 +1,39 @@
 {
   "latest": {
-    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 08)",
-    "date": "2020-04-08 00:00",
-    "dateText": "ഏപ്രിൽ 08 ന് മാത്രം",
-    "latestTotalCount": "09",
+    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 09)",
+    "date": "2020-04-09 00:00",
+    "dateText": "ഏപ്രിൽ 09 ന് മാത്രം",
+    "latestTotalCount": "12",
     "latestCovidCountNegative": "13",
-    "totalCovidCountPositive": "259",
-    "totalCovidCountNegative": "84",
-    "totalCovidCount": "345",
+    "totalCovidCountPositive": "258",
+    "totalCovidCountNegative": "97",
+    "totalCovidCount": "357",
     "totalToll": "02",
     "latestToll": null,
     "data": [
       {
         "name": "trivandrum",
-        "currentPositiveCount": "03",
-        "latestNegativeCount": "03",
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "04",
         "currentNegativeCount": "09",
-        "totalReported": "13",
+        "totalReported": "14",
         "totalDeath": "01"
       },
       {
         "name": "kollam",
-        "currentPositiveCount": "08",
+        "latestPositiveCount": "01",
+        "currentPositiveCount": "09",
         "currentNegativeCount": "01",
-        "totalReported": "09"
+        "totalReported": "10"
       },
       {
         "name": "pathanamthitta",
-        "latestPositiveCount": "01",
         "currentPositiveCount": "08",
         "currentNegativeCount": "08",
         "totalReported": "16"
       },
       {
         "name": "alapuzha",
-        "latestPositiveCount": "02",
         "currentPositiveCount": "03",
         "currentNegativeCount": "02",
         "totalReported": "05"
@@ -46,23 +45,22 @@
       },
       {
         "name": "idukki",
-        "currentPositiveCount": "05",
+        "currentPositiveCount": "03",
         "latestNegativeCount": "02",
-        "currentNegativeCount": "04",
+        "currentNegativeCount": "06",
         "totalReported": "09"
       },
       {
         "name": "ernakulam",
-        "currentPositiveCount": "11",
-        "currentNegativeCount": "10",
+        "currentPositiveCount": "07",
+        "latestNegativeCount": "04",
+        "currentNegativeCount": "14",
         "totalReported": "22",
         "totalDeath": "01"
       },
       {
         "name": "trissur",
-        "latestPositiveCount": "01",
         "currentPositiveCount": "08",
-        "latestNegativeCount": "03",
         "currentNegativeCount": "05",
         "totalReported": "13"
       },
@@ -73,38 +71,76 @@
       },
       {
         "name": "malappuram",
+        "latestPositiveCount": "02",
         "currentPositiveCount": "15",
-        "currentNegativeCount": "02",
-        "totalReported": "17"
+        "latestNegativeCount": "02",
+        "currentNegativeCount": "04",
+        "totalReported": "19"
       },
       {
         "name": "kozhikode",
         "currentPositiveCount": "07",
-        "latestNegativeCount": "02",
         "currentNegativeCount": "05",
         "totalReported": "12"
       },
       {
         "name": "wayanad",
         "currentPositiveCount": "01",
-        "latestNegativeCount": "02",
         "currentNegativeCount": "02",
         "totalReported": "03"
       },
       {
         "name": "kannur",
         "latestPositiveCount": "04",
-        "currentPositiveCount": "35",
-        "latestNegativeCount": "01",
-        "currentNegativeCount": "26",
-        "totalReported": "61"
+        "currentPositiveCount": "34",
+        "latestNegativeCount": "05",
+        "currentNegativeCount": "31",
+        "totalReported": "65"
       },
       {
         "name": "kasargod",
-        "latestPositiveCount": "01",
-        "currentPositiveCount": "151",
+        "latestPositiveCount": "04",
+        "currentPositiveCount": "155",
         "currentNegativeCount": "06",
-        "totalReported": "157"
+        "totalReported": "161"
+      }
+    ]
+  },
+  "april09": {
+    "label": "09 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 09 ന്",
+    "totalCovidCountPositive": "12",
+    "totalCovidCountNegative": "13",
+    "data": [
+      {
+        "name": "kannur",
+        "count": "04",
+        "negative": "05"
+      },
+      {
+        "name": "kasargod",
+        "count": "04"
+      },
+      {
+        "name": "malappuram",
+        "count": "02",
+        "negative": "02"
+      },
+      {
+        "name": "trivandrum",
+        "count": "01"
+      },
+      {
+        "name": "kollam",
+        "count": "01"
+      },
+      {
+        "name": "ernakulam",
+        "negative": "04"
+      },
+      {
+        "name": "idukki",
+        "negative": "02"
       }
     ]
   },
