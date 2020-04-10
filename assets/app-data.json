@@ -1,19 +1,18 @@
 {
   "latest": {
-    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 09)",
-    "date": "2020-04-09 00:00",
-    "dateText": "ഏപ്രിൽ 09 ന് മാത്രം",
-    "latestTotalCount": "12",
-    "latestCovidCountNegative": "13",
-    "totalCovidCountPositive": "258",
-    "totalCovidCountNegative": "97",
-    "totalCovidCount": "357",
+    "label": "കേരളത്തിൽ ആകെ (ഏപ്രിൽ 10)",
+    "date": "2020-04-10 00:00",
+    "dateText": "ഏപ്രിൽ 10 ന് മാത്രം",
+    "latestTotalCount": "07",
+    "latestCovidCountNegative": "27",
+    "totalCovidCountPositive": "238",
+    "totalCovidCountNegative": "124",
+    "totalCovidCount": "364",
     "totalToll": "02",
     "latestToll": null,
     "data": [
       {
         "name": "trivandrum",
-        "latestPositiveCount": "01",
         "currentPositiveCount": "04",
         "currentNegativeCount": "09",
         "totalReported": "14",
@@ -21,7 +20,6 @@
       },
       {
         "name": "kollam",
-        "latestPositiveCount": "01",
         "currentPositiveCount": "09",
         "currentNegativeCount": "01",
         "totalReported": "10"
@@ -46,22 +44,22 @@
       {
         "name": "idukki",
         "currentPositiveCount": "03",
-        "latestNegativeCount": "02",
         "currentNegativeCount": "06",
         "totalReported": "09"
       },
       {
         "name": "ernakulam",
-        "currentPositiveCount": "07",
-        "latestNegativeCount": "04",
-        "currentNegativeCount": "14",
+        "currentPositiveCount": "06",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "15",
         "totalReported": "22",
         "totalDeath": "01"
       },
       {
         "name": "trissur",
-        "currentPositiveCount": "08",
-        "currentNegativeCount": "05",
+        "currentPositiveCount": "07",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "06",
         "totalReported": "13"
       },
       {
@@ -72,15 +70,15 @@
       {
         "name": "malappuram",
         "latestPositiveCount": "02",
-        "currentPositiveCount": "15",
-        "latestNegativeCount": "02",
+        "currentPositiveCount": "17",
         "currentNegativeCount": "04",
-        "totalReported": "19"
+        "totalReported": "21"
       },
       {
         "name": "kozhikode",
-        "currentPositiveCount": "07",
-        "currentNegativeCount": "05",
+        "currentPositiveCount": "06",
+        "latestNegativeCount": "01",
+        "currentNegativeCount": "06",
         "totalReported": "12"
       },
       {
@@ -91,18 +89,53 @@
       },
       {
         "name": "kannur",
-        "latestPositiveCount": "04",
-        "currentPositiveCount": "34",
-        "latestNegativeCount": "05",
-        "currentNegativeCount": "31",
-        "totalReported": "65"
+        "latestPositiveCount": "02",
+        "currentPositiveCount": "30",
+        "latestNegativeCount": "06",
+        "currentNegativeCount": "37",
+        "totalReported": "67"
       },
       {
         "name": "kasargod",
-        "latestPositiveCount": "04",
-        "currentPositiveCount": "155",
-        "currentNegativeCount": "06",
-        "totalReported": "161"
+        "latestPositiveCount": "03",
+        "currentPositiveCount": "140",
+        "latestNegativeCount": "18",
+        "currentNegativeCount": "24",
+        "totalReported": "164"
+      }
+    ]
+  },
+  "april10": {
+    "label": "10 ഏപ്രിൽ",
+    "briefText": "ഏപ്രിൽ 10 ന്",
+    "totalCovidCountPositive": "07",
+    "totalCovidCountNegative": "27",
+    "data": [
+      {
+        "name": "kasargod",
+        "count": "03",
+        "negative": "18"
+      },
+      {
+        "name": "kannur",
+        "count": "02",
+        "negative": "06"
+      },
+      {
+        "name": "malappuram",
+        "count": "02"
+      },
+      {
+        "name": "kozhikode",
+        "negative": "01"
+      },
+      {
+        "name": "ernakulam",
+        "negative": "01"
+      },
+      {
+        "name": "trissur",
+        "negative": "01"
       }
     ]
   },
