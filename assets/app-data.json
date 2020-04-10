@@ -13,16 +13,16 @@
     "data": [
       {
         "name": "trivandrum",
-        "currentPositiveCount": "04",
-        "currentNegativeCount": "09",
+        "currentPositiveCount": "05",
+        "currentNegativeCount": "08",
         "totalReported": "14",
         "totalDeath": "01"
       },
       {
         "name": "kollam",
-        "currentPositiveCount": "09",
-        "currentNegativeCount": "01",
-        "totalReported": "10"
+        "currentPositiveCount": "07",
+        "currentNegativeCount": "02",
+        "totalReported": "09"
       },
       {
         "name": "pathanamthitta",
@@ -44,22 +44,22 @@
       {
         "name": "idukki",
         "currentPositiveCount": "03",
-        "currentNegativeCount": "06",
-        "totalReported": "09"
+        "currentNegativeCount": "07",
+        "totalReported": "10"
       },
       {
         "name": "ernakulam",
-        "currentPositiveCount": "06",
+        "currentPositiveCount": "08",
         "latestNegativeCount": "01",
-        "currentNegativeCount": "15",
-        "totalReported": "22",
+        "currentNegativeCount": "16",
+        "totalReported": "25",
         "totalDeath": "01"
       },
       {
         "name": "trissur",
-        "currentPositiveCount": "07",
+        "currentPositiveCount": "06",
         "latestNegativeCount": "01",
-        "currentNegativeCount": "06",
+        "currentNegativeCount": "07",
         "totalReported": "13"
       },
       {
@@ -70,15 +70,15 @@
       {
         "name": "malappuram",
         "latestPositiveCount": "02",
-        "currentPositiveCount": "17",
+        "currentPositiveCount": "16",
         "currentNegativeCount": "04",
-        "totalReported": "21"
+        "totalReported": "20"
       },
       {
         "name": "kozhikode",
-        "currentPositiveCount": "06",
+        "currentPositiveCount": "05",
         "latestNegativeCount": "01",
-        "currentNegativeCount": "06",
+        "currentNegativeCount": "07",
         "totalReported": "12"
       },
       {
@@ -90,17 +90,17 @@
       {
         "name": "kannur",
         "latestPositiveCount": "02",
-        "currentPositiveCount": "30",
+        "currentPositiveCount": "28",
         "latestNegativeCount": "06",
-        "currentNegativeCount": "37",
-        "totalReported": "67"
+        "currentNegativeCount": "35",
+        "totalReported": "63"
       },
       {
         "name": "kasargod",
         "latestPositiveCount": "03",
-        "currentPositiveCount": "140",
+        "currentPositiveCount": "141",
         "latestNegativeCount": "18",
-        "currentNegativeCount": "24",
+        "currentNegativeCount": "23",
         "totalReported": "164"
       }
     ]
